@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Halaman Pribadi - Nama Anda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Selamat datang di halaman pribadi saya!</h1>
+            <p>Nama saya <strong>Nama Anda</strong>, dan saya seorang <em>profesi Anda</em>.</p>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>Tentang Saya</h2>
+            <img src="foto-profil.jpg" alt="Foto Profil" class="profile-image">
+            <p>Saya adalah seorang yang passionate dalam <strong>bidang pekerjaan Anda</strong>. Saat ini, saya fokus mengembangkan keterampilan di <em>keterampilan utama</em>. Saya memiliki pengalaman di berbagai proyek yang melibatkan <em>keahlian lain</em>.</p>
+        </div>
+    </section>
+
+    <section class="skills">
+        <div class="container">
+            <h2>Keterampilan Saya</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript</li>
+                <li>Pengembangan Web</li>
+                <li>Manajemen Proyek</li>
+                <li>UI/UX Design</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Kontak Saya</h2>
+            <p>Jika Anda ingin menghubungi saya, silakan kirim email ke <a href="mailto:email@domain.com">email@domain.com</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Nama Anda. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
